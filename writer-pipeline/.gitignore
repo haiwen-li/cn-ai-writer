@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.claude/
+output/
+.DS_Store
+*.egg-info/
